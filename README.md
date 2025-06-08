@@ -3,3 +3,5 @@ https://community.home-assistant.io/t/esp-haier-haier-air-conditioner-esp-home-w
 https://www.lazada.co.th/shop/wealthyt-shop
 
 https://github.com/junkfix/tcl-electriq-split-ac
+
+https://github.com/straga/scrivo_project/tree/master/project%2Fac_xm_hisense_control
